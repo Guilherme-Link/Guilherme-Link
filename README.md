@@ -1,6 +1,7 @@
 ## Hi there 👋
-Estudante em Análise e Desenvolvimento de Sistemas  
-Atualmente trabalhando com automação industrial
+* Estudante em Análise e Desenvolvimento de Sistemas  
+* Atualmente trabalhando com automação industrial
+* Iniciante em git
 
 
 <!--
