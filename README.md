@@ -1,4 +1,7 @@
 ## Hi there 👋
+Estudante em Análise e Desenvolvimento de Sistemas
+Atualmente trabalhando com automação industrial
+
 
 <!--
 **Guilherme-Link/Guilherme-Link** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
